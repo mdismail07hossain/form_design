@@ -93,8 +93,12 @@
 .genderDiv {
     color: white;
     margin-bottom: 15px;
+   
 }
 
+.genderDiv label, input {
+    cursor: pointer;
+}
 
 .input_box2 input {
     width: 100%;
